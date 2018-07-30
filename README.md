@@ -1,2 +1,2 @@
 # Mangoose-Pokedex
-Uma pokedex com node e mongodb.
+Uma pokedex criada com node.js e mongodb.
