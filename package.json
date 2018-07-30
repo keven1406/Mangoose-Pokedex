@@ -1,0 +1,21 @@
+{
+  "name": "mongoose-pokemon",
+  "version": "0.0.1",
+  "description": "Inserir e alterar pokemons",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pokemons",
+    "mongoose",
+    "javascript",
+    "node.js",
+    "mongo"
+  ],
+  "author": "Elias Keven",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^5.2.5"
+  }
+}
